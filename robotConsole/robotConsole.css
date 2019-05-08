@@ -203,7 +203,7 @@ body{
     width: 85%;
     margin: 10px auto;
     left:8%;
-    border: 3px solid white;
+    /* border: 3px solid white; */
 }
 #myStyle .tab-content .gauge_power{
     position: absolute;
@@ -211,7 +211,7 @@ body{
     bottom: 2%;
     height: 200px;
     width: 25%;
-    border: 3px solid white;
+    /* border: 3px solid white; */
 }
 #myStyle .tab-content .gauge_tempNbattery{
     position: absolute;
@@ -219,7 +219,7 @@ body{
     height: 200px;
     width: 25%;
     bottom: 2%;
-    border: 3px solid white;
+    /* border: 3px solid white; */
     /* border-radius: 10px; */
 }
 #myStyle .tab-content .gauge_new{
@@ -228,7 +228,7 @@ body{
     bottom: 2%;
     height: 200px;
     width: 25%;
-    border: 3px solid white;
+    /* border: 3px solid white; */
 }
 
 
